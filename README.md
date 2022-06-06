@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @CODERC755
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning coding
-- 📫 How to reach me: ry44an.bot@gmail.com
+- please dont look at my old content its real cringe
