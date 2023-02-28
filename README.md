@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adi0sryan" alt="adi0sryan" /></a> </p>
-
 - 🔭 I’m currently working on some Codecademy projects [Marvel Movie Recommender](https://github.com/adi0sryan/Marvel-Movie-Recommender)
 
 - 🌱 I’m currently learning **intermediate-advanced python**
