@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Python developer from Canada</h3>
 
-- 🔭 I’m currently working on some Codecademy projects [Marvel Movie Recommender](https://github.com/adi0sryan/Marvel-Movie-Recommender)
+- 🔭 I’m currently working on a CodeCademy course!
 
 - 🌱 I’m currently learning **intermediate-advanced python**
 
