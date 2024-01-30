@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate Python developer from Canada</h3>
 
-- 🔭 I’m currently working on a CodeCademy course!
+- 🔭 I’m currently working on a BeautifulSoupBox project!
 
-- 🌱 I’m currently learning **intermediate-advanced python**
+- 🌱 I’m currently learning **Different python packages**
 
 - 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC2j6PwOccVqzooZVr-cCIYQ](https://www.youtube.com/channel/UC2j6PwOccVqzooZVr-cCIYQ)
 
