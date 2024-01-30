@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Different python packages**
 
-- 👨‍💻 All of my projects are available at [https://www.youtube.com/channel/UC2j6PwOccVqzooZVr-cCIYQ](https://www.youtube.com/channel/UC2j6PwOccVqzooZVr-cCIYQ)
+- 👨‍💻 All of my projects are available at my github or my youtube channel: https://www.youtube.com/channel/UC01z60StLyLJYm8oWv_ronA
 
 - ⚡ Fun fact: **I'm a Leo!**
 
